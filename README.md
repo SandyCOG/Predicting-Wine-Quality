@@ -7,4 +7,5 @@ The steps carried out in the notebook include:
 - Visualization
 - Log normalization
 - Model training and evaluation.
+
 Of all the models used, RandomForestClassifier has the highest accuracy score of 0.71
